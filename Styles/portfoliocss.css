@@ -208,6 +208,12 @@ span{
   background-color: #B9FBB9;
 }
 
+.BigContainer3 {
+  box-shadow: rgba(240, 46, 170, 0.2) 6px 6px, rgba(240, 46, 170, 0.1) 11px 11px, rgba(240, 46, 170, 0.05) 14px 14px;
+  border: solid 2px black;
+  background-color: #B9FBB9;
+}
+
 .rows {
   margin-top: -5px;
   border-bottom: solid 2px black;
